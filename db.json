@@ -1,0 +1,218 @@
+{
+  "accounts": [
+    {
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "balance": 0,
+      "password": "test1",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-27T23:01:49.388Z"
+        },
+        {
+          "action": "Deposit",
+          "amount": 10000,
+          "timestamp": "2019-01-27T23:02:30.726Z"
+        },
+        {
+          "action": "Withdraw",
+          "amount": 10000,
+          "timestamp": "2019-01-27T23:12:51.629Z"
+        }
+      ]
+    },
+    {
+      "name": "Andres",
+      "email": "andres@gmail.com",
+      "balance": 30000,
+      "password": "Secret",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:44:29.941Z"
+        },
+        {
+          "action": "Deposit",
+          "amount": 50000,
+          "timestamp": "2019-01-28T15:45:57.901Z"
+        },
+        {
+          "action": "Withdraw",
+          "amount": 20000,
+          "timestamp": "2019-01-28T15:46:29.766Z"
+        }
+      ]
+    },
+    {
+      "name": "Ana",
+      "email": "Ana@gmail.com",
+      "balance": 0,
+      "password": "Anapass",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:45:07.336Z"
+        }
+      ]
+    },
+    {
+      "name": "test2",
+      "email": "test2@gmail.com",
+      "balance": 0,
+      "password": "test2",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:49:28.161Z"
+        }
+      ]
+    },
+    {
+      "name": "test3",
+      "email": "test3@gmail.com",
+      "balance": 0,
+      "password": "test3",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:49:55.605Z"
+        }
+      ]
+    },
+    {
+      "name": "test4",
+      "email": "test4@gmail.com",
+      "balance": 900,
+      "password": "test4",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:58:14.924Z"
+        },
+        {
+          "action": "Login",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:17:06.912Z"
+        },
+        {
+          "action": "Deposit",
+          "amount": 1000,
+          "timestamp": "2019-01-28T16:17:21.306Z"
+        },
+        {
+          "action": "Withdraw",
+          "amount": 100,
+          "timestamp": "2019-01-28T16:17:30.799Z"
+        },
+        {
+          "action": "Login",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:17:40.092Z"
+        },
+        {
+          "action": "CheckTransactions",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:21:07.995Z"
+        },
+        {
+          "action": "CheckTransactions",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:21:12.498Z"
+        },
+        {
+          "action": "CheckBalance",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:21:19.896Z"
+        },
+        {
+          "action": "CheckTransactions",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:21:24.989Z"
+        },
+        {
+          "action": "CheckTransactions",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:24:11.691Z"
+        },
+        {
+          "action": "CheckBalance",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:24:29.626Z"
+        },
+        {
+          "action": "CheckTransactions",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:24:33.887Z"
+        }
+      ]
+    },
+    {
+      "name": "test5",
+      "email": "test5@gmail.com",
+      "balance": 5454,
+      "password": "test5",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:59:21.074Z"
+        },
+        {
+          "action": "Deposit",
+          "amount": 5454,
+          "timestamp": "2019-01-28T15:59:35.618Z"
+        }
+      ]
+    },
+    {
+      "name": "test6",
+      "email": "test6@gmail.com",
+      "balance": 500,
+      "password": "test6",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:25:01.778Z"
+        },
+        {
+          "action": "CheckTransactions",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:25:10.371Z"
+        },
+        {
+          "action": "CheckBalance",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:25:18.986Z"
+        },
+        {
+          "action": "Login",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:25:28.695Z"
+        },
+        {
+          "action": "Deposit",
+          "amount": 1000,
+          "timestamp": "2019-01-28T16:25:41.988Z"
+        },
+        {
+          "action": "Withdraw",
+          "amount": 500,
+          "timestamp": "2019-01-28T16:25:51.521Z"
+        },
+        {
+          "action": "CheckTransactions",
+          "amount": 0,
+          "timestamp": "2019-01-28T16:25:57.465Z"
+        }
+      ]
+    }
+  ]
+}
