@@ -1,0 +1,120 @@
+{
+  "accounts": [
+    {
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "balance": 0,
+      "password": "test1",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-27T23:01:49.388Z"
+        },
+        {
+          "action": "Deposit",
+          "amount": 10000,
+          "timestamp": "2019-01-27T23:02:30.726Z"
+        },
+        {
+          "action": "Withdraw",
+          "amount": 10000,
+          "timestamp": "2019-01-27T23:12:51.629Z"
+        }
+      ]
+    },
+    {
+      "name": "Andres",
+      "email": "andres@gmail.com",
+      "balance": 30000,
+      "password": "Secret",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:44:29.941Z"
+        },
+        {
+          "action": "Deposit",
+          "amount": 50000,
+          "timestamp": "2019-01-28T15:45:57.901Z"
+        },
+        {
+          "action": "Withdraw",
+          "amount": 20000,
+          "timestamp": "2019-01-28T15:46:29.766Z"
+        }
+      ]
+    },
+    {
+      "name": "Ana",
+      "email": "Ana@gmail.com",
+      "balance": 0,
+      "password": "Anapass",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:45:07.336Z"
+        }
+      ]
+    },
+    {
+      "name": "test2",
+      "email": "test2@gmail.com",
+      "balance": 0,
+      "password": "test2",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:49:28.161Z"
+        }
+      ]
+    },
+    {
+      "name": "test3",
+      "email": "test3@gmail.com",
+      "balance": 0,
+      "password": "test3",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:49:55.605Z"
+        }
+      ]
+    },
+    {
+      "name": "test4",
+      "email": "test4@gmail.com",
+      "balance": 0,
+      "password": "test4",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:58:14.924Z"
+        }
+      ]
+    },
+    {
+      "name": "test5",
+      "email": "test5@gmail.com",
+      "balance": 5454,
+      "password": "test5",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-28T15:59:21.074Z"
+        },
+        {
+          "action": "Deposit",
+          "amount": 5454,
+          "timestamp": "2019-01-28T15:59:35.618Z"
+        }
+      ]
+    }
+  ]
+}
